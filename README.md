@@ -1,16 +1,7 @@
-# todo_list
+<h1 align="center" width="100%">Um projeto Flutter para criar e marcar tarefas:</h1>
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+  ![Screenshot from 2025-01-27 20-48-00](https://github.com/user-attachments/assets/7a44bf50-66ed-48e7-9fe8-c4eee392c265)
+  ![Screenshot from 2025-01-27 20-48-37](https://github.com/user-attachments/assets/d7c4cbd6-7e9b-4f94-a090-131d23a37a4c)
+  ![Screenshot from 2025-01-27 20-48-51](https://github.com/user-attachments/assets/d15f2f22-0519-446f-804b-3e28c3668f6f)
